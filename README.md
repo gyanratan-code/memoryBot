@@ -49,7 +49,7 @@ MemoryBot sets up a WiFi Access Point (AP) using the ESP8266 module and serves a
 
 1. **Power On & Connect:**
    - Once the ESP8266 boots, it creates a WiFi network named `FDP_Group:15`.
-   - Connect to the network using the password `gyanratan`.
+   - Connect to the network using the password `xxxxxxxx`.
 
 2. **Access the Control Interface:**
    - Open a web browser and navigate to the IP address `http://192.168.4.22/` (this is set in the sketch).
