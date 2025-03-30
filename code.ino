@@ -271,7 +271,7 @@ void setup() {
   Serial.println(WiFi.softAPConfig(local_IP, gateway, subnet) ? "Ready" : "Failed!");
 
   Serial.print("Setting soft-AP ... ");
-  Serial.println(WiFi.softAP("FDP_Group:15","gyanratan") ? "Ready" : "Failed!");
+  Serial.println(WiFi.softAP("FDP_Group:15","xxxxxxxx") ? "Ready" : "Failed!");
 
   Serial.print("Soft-AP IP address = ");
   Serial.println(WiFi.softAPIP());
