@@ -8,7 +8,7 @@ MemoryBot sets up a WiFi Access Point (AP) using the ESP8266 module and serves a
 
 ## Features
 
-- **WiFi Soft AP Mode:** The ESP8266 creates its own WiFi network (SSID: `FDP_Group:15`, Password: `gyanratan`).
+- **WiFi Soft AP Mode:** The ESP8266 creates its own WiFi network (SSID: `FDP_Group:15`, Password: `xxxxxxx`).
 - **Asynchronous Web Server:** Hosts a control webpage for sending commands.
 - **WebSocket Communication:** Provides low-latency bi-directional communication.
 - **Robot Movement Control:** Supports commands for moving forward, backward, left, right, and stopping.
